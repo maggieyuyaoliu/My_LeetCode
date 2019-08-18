@@ -9,12 +9,12 @@ Forever valiant.
 <br/>  
   
 ## 周记录表：
- 周次 | 日期 | 完成题量 | 计划题量 | link  
- :----:| :----: | :----: | :----: | :----  
- 1 | 08/19/19 - 08/25/19 |  |  |  |
+ 周次 | 日期 | 完成题量 | 计划题量 | GitHub link | 公众号 link 
+ :----:| :----: | :----: | :----: | :---- | :---- 
+ 1 | 08/19/19 - 08/25/19 |  |  |  |  |
    
  <br/>  
    
- <font color = #A9A9A9 size = 2> *ps.相关整理题目思路&代码的文章，会在我の公众号「**予安Acoustic**」里同步更新* </font>  
+ <font color = #A9A9A9 size = 2> *ps. 相关整理题目思路&代码的文章，会在我の公众号「**予安Acoustic**」里同步更新。* </font>  
 
  <img src="http://ww3.sinaimg.cn/large/006tNc79ly1g64j8raevmj30jg0yjjv8.jpg" width = "350" height = "621" div align=center />
